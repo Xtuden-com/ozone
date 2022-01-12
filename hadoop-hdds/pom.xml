@@ -72,7 +72,7 @@ https://maven.apache.org/xsd/maven-4.0.0.xsd">
       <dependency>
         <groupId>org.apache.hadoop</groupId>
         <artifactId>hadoop-hdds-hadoop-dependency-client</artifactId>
-        <version>${hdds.version}</version>
+        <version>1.1.0</version>
       </dependency>
 
       <dependency>
@@ -215,7 +215,7 @@ https://maven.apache.org/xsd/maven-4.0.0.xsd">
       <dependency>
         <groupId>org.bouncycastle</groupId>
         <artifactId>bcpkix-jdk15on</artifactId>
-        <version>${bouncycastle.version}</version>
+        <version>1.66</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
